@@ -1,0 +1,29 @@
+body {
+  text-align:center;
+  background-image: url(https://wallpapercave.com/wp/wp2409705.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: cover;
+
+}
+canvas { 
+  border:7px solid;
+  border-color: black;
+}
+h1 { 
+  font-size:75px; 
+  text-align: center; 
+  margin-bottom: 50pxx;
+  padding-bottom: 25px; 
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: red;
+}
+.a{
+	background-color: papayawhip;
+}
+.s{
+
+	padding: 25px;
+	font-size: large;
+	background-color: orange;
+}
